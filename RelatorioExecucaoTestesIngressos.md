@@ -1,7 +1,5 @@
 ### **Relatório de Execução de Testes - API de Reserva de Ingressos**
 
----
-
 #### **Resumo do Teste**
 
 Os testes realizados verificaram os requisitos funcionais e não funcionais da funcionalidade de reserva de ingressos na API. Este relatório destaca os resultados, problemas encontrados e evidências documentadas.

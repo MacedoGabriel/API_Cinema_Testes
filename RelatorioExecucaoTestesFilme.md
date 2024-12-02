@@ -1,7 +1,5 @@
 ### **Relatório de Execução de Testes - API de Gerenciamento de Filmes**
 
----
-
 #### **Resumo do Teste**
 
 O teste foi realizado com o objetivo de validar as funcionalidades e desempenho da API de Gerenciamento de Filmes. Foram verificados os requisitos funcionais e não funcionais, destacando problemas identificados e áreas de sucesso.
